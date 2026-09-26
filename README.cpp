@@ -4,8 +4,7 @@
 
 ## About
 
-This repository contains my solutions for the 5 mandatory HackerRank problems
-completed as part of my 3rd Semester CSE portfolio activity.
+This repository contains my solutions for the 5 mandatory HackerRank problems completed as part of my 3rd Semester CSE portfolio activity.
 
 ## HackerRank Profile
 
@@ -13,11 +12,11 @@ completed as part of my 3rd Semester CSE portfolio activity.
 
 ## Problems Solved
 
-1. [Diagonal Difference](./Diagonal-Difference/solution.cpp)
-2. [Dynamic Array](./Dynamic-Array/solution.cpp)
-3. [Time Conversion](./Time-Conversion/solution.cpp)
-4. [Compare the Triplets](./Compare-the-Triplets/solution.cpp)
-5. [Sparse Arrays](./Sparse-Arrays/solution.cpp)
+1. Diagonal Difference
+2. Dynamic Array
+3. Time Conversion
+4. Compare the Triplets
+5. Sparse Arrays
 
 ## Time and Space Complexity
 
@@ -31,19 +30,17 @@ completed as part of my 3rd Semester CSE portfolio activity.
 
 ## HackerRank Submission Evidence
 
-### Accepted Submissions
+### Accepted Submission
 
-Screenshots of successful HackerRank submissions will be added here.
+![Accepted Submission](./Hacker%20Rank%20sreen)
 
-### HackerRank Badges
+### HackerRank 3-Star Badge
 
-Screenshots of earned HackerRank badges will be added here.
+![3-Star Problem Solving Badge](./badge%20scre%20-%20Copy.png)
 
 ## Key Learning
 
-Through these problems, I practiced array traversal, vectors, strings,
-hash maps, frequency counting, and efficient algorithm design. I also learned
-to consider time and space complexity while solving programming problems.
+Through these problems, I practiced array traversal, vectors, strings, hash maps, frequency counting, and efficient algorithm design. I also learned to consider time and space complexity while solving programming problems.
 
 ## Repository Structure
 
